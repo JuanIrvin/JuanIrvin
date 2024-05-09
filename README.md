@@ -7,9 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<iframe src="https://giphy.com/embed/l2Je2WtHs3ZxIRB2U" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-12-the-simpsons-12x6-l2Je2WtHs3ZxIRB2U">via GIPHY</a></p>
+
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/l2Je2WtHs3ZxIRB2U"  />
+<img align="right" height="150" src="https://giphy.com/gifs/season-12-the-simpsons-12x6-l2Je2WtHs3ZxIRB2U"  />
 
 ###
 
