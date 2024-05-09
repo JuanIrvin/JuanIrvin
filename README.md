@@ -24,8 +24,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuanIrvin/JuanIrvin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JuanIrvin/JuanIrvin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 ###
